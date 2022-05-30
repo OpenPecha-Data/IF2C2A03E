@@ -1,0 +1,61 @@
+id: IF2C2A03E
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-30T20:56:27.369954'
+last_modified: '2022-05-30T20:56:27.369959'
+parser: null
+source_metadata:
+  title: Guru Chökyi Wangchuk
+  language: es
+  description: 'Texts by the famous treasure-revealer Guru Chökyi Wangchuk (gu ru
+    chos kyi dbang phyug, 1212–1270):'
+  volume:
+    fCB0B:
+      title: Ārya Mañjuśrī Tantra Garbha—commentary
+      base_file: fCB0B.txt
+      order: 1
+      parent: Commentaries
+    f455B:
+      title: 'Emptying the Hells from their Very Depths: The Sovereign Practice for
+        the Confession of all Impairments and Breakages of Vows and all Negative Actions
+        and Obscurations'
+      base_file: f455B.txt
+      order: 2
+      parent: Confession
+    f4ED6:
+      title: The Dhāraṇīs That Encapsulate the Essence of the Kangyur, the Collected
+        Words of the Buddha
+      base_file: f4ED6.txt
+      order: 3
+      parent: Dhāraṇī
+    f9D5D:
+      title: 'Accomplishing the Lama through the Seven-Line Prayer: A Special Teaching
+        from the Lama Sangdü'
+      base_file: f9D5D.txt
+      order: 4
+      parent: Guru Padmasambhava
+    f5C35:
+      title: Ārya Mañjuśrī Tantra Garbha
+      base_file: f5C35.txt
+      order: 5
+      parent: Mañjuśrī
+    f4C48:
+      title: 'The Brilliant Essence: The Ritual Manual for the Secret Embodiment of
+        the Guru (Lama Sangdü)'
+      base_file: f4C48.txt
+      order: 6
+      parent: Sādhanas
+    fAA4C:
+      title: 'Meeting the Buddha Face to Face: A Pith Instruction on Realizing the
+        Fortress, Ravine, and View of the Practice of Vajrakīla'
+      base_file: fAA4C.txt
+      order: 7
+      parent: Vajrakīla
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
